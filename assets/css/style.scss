@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+    text-align: center;
+}
+
+.inner{
+    width: 768px;
+    }
+
+a.button{
+    float: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.out{
+    color: #303030;
+}
